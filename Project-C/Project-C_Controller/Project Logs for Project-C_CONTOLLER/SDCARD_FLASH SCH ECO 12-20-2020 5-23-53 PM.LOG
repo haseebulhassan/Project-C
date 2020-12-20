@@ -1,0 +1,54 @@
+Removed Parameter Arrow Part Number: from Part J2
+Removed Parameter Arrow Part Number:S25FL064LABMFI013 from Part U5
+Removed Parameter Arrow Price/Stock: from Part J2
+Removed Parameter Arrow Price/Stock:https://www.arrow.com/en/products/s25fl064labmfi013/cypress-semiconductor from Part U5
+Removed Parameter Datasheet Link:http://www.cypress.com/file/316661/download from Part U5
+Removed Parameter Datasheet Link:https://www.hirose.com/product/en/download_file/key_name/DM3/category/Catalog/doc_file_id/49662/?file_category_id=4&item_id=195&is_series=1 from Part J2
+Removed Parameter Height:1.83mm from Part J2
+Removed Parameter Height:2.16mm from Part U5
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part C28
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part C29
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part C28
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part C29
+Removed Parameter Manufacturer_Name:Cypress Semiconductor from Part U5
+Removed Parameter Manufacturer_Name:Hirose from Part J2
+Removed Parameter Manufacturer_Part_Number:DM3CS-SF-PEJMS from Part J2
+Removed Parameter Manufacturer_Part_Number:S25FL064LABMFI013 from Part U5
+Removed Parameter Mouser Part Number:727-S25FL064LAMFI013 from Part U5
+Removed Parameter Mouser Part Number: from Part J2
+Removed Parameter Mouser Price/Stock: from Part J2
+Removed Parameter Mouser Price/Stock:https://www.mouser.co.uk/ProductDetail/Cypress-Semiconductor/S25FL064LABMFI013?qs=u4fy%2FsgLU9PtvO%252BABYRiUQ%3D%3D from Part U5
+Removed Parameter PackageDescription:Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing from Part C28
+Removed Parameter PackageDescription:Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing from Part C29
+Removed Parameter PackageReference:RAD-0.3 from Part C28
+Removed Parameter PackageReference:RAD-0.3 from Part C29
+Removed Parameter Published:8-Jun-2000 from Part C28
+Removed Parameter Published:8-Jun-2000 from Part C29
+Removed Parameter Publisher:Altium Limited from Part C28
+Removed Parameter Publisher:Altium Limited from Part C29
+Added Parameter Mfr= to Part C28
+Added Parameter Mfr= to Part C29
+Added Parameter Mfr= to Part J2
+Added Parameter Mfr= to Part U5
+Added Parameter Mfr Part No= to Part C28
+Added Parameter Mfr Part No= to Part C29
+Added Parameter Mfr Part No= to Part J2
+Added Parameter Mfr Part No= to Part U5
+Added Parameter Package= to Part C28
+Added Parameter Package= to Part C29
+Added Parameter Package= to Part J2
+Added Parameter Package= to Part U5
+Added Parameter Price= to Part C28
+Added Parameter Price= to Part C29
+Added Parameter Price= to Part J2
+Added Parameter Price= to Part U5
+Added Parameter Stockiest=MOUSER to Part C28
+Added Parameter Stockiest=MOUSER to Part C29
+Added Parameter Stockiest=MOUSER to Part J2
+Added Parameter Stockiest=MOUSER to Part U5
+Added Parameter Stockiest Part No= to Part C28
+Added Parameter Stockiest Part No= to Part C29
+Added Parameter Stockiest Part No= to Part J2
+Added Parameter Stockiest Part No= to Part U5
+Added Parameter Value= to Part J2
+Added Parameter Value= to Part U5

@@ -1,0 +1,43 @@
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part C57
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part C58
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part R43
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part C57
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part C58
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part R43
+Removed Parameter PackageDescription:Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing from Part R43
+Removed Parameter PackageDescription:Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing from Part C57
+Removed Parameter PackageDescription:Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing from Part C58
+Removed Parameter PackageReference:AXIAL-0.3 from Part R43
+Removed Parameter PackageReference:RAD-0.3 from Part C57
+Removed Parameter PackageReference:RAD-0.3 from Part C58
+Removed Parameter Published:8-Jun-2000 from Part C57
+Removed Parameter Published:8-Jun-2000 from Part C58
+Removed Parameter Published:8-Jun-2000 from Part R43
+Removed Parameter Publisher:Altium Limited from Part C57
+Removed Parameter Publisher:Altium Limited from Part C58
+Removed Parameter Publisher:Altium Limited from Part R43
+Added Parameter Mfr= to Part C57
+Added Parameter Mfr= to Part C58
+Added Parameter Mfr= to Part LCD1
+Added Parameter Mfr= to Part R43
+Added Parameter Mfr Part No= to Part C57
+Added Parameter Mfr Part No= to Part C58
+Added Parameter Mfr Part No= to Part LCD1
+Added Parameter Mfr Part No= to Part R43
+Added Parameter Package= to Part C57
+Added Parameter Package= to Part C58
+Added Parameter Package= to Part LCD1
+Added Parameter Package= to Part R43
+Added Parameter Price= to Part C57
+Added Parameter Price= to Part C58
+Added Parameter Price= to Part LCD1
+Added Parameter Price= to Part R43
+Added Parameter Stockiest=MOUSER to Part C57
+Added Parameter Stockiest=MOUSER to Part C58
+Added Parameter Stockiest=MOUSER to Part LCD1
+Added Parameter Stockiest=MOUSER to Part R43
+Added Parameter Stockiest Part No= to Part C57
+Added Parameter Stockiest Part No= to Part C58
+Added Parameter Stockiest Part No= to Part LCD1
+Added Parameter Stockiest Part No= to Part R43
+Added Parameter Value= to Part LCD1
