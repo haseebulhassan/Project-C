@@ -1,0 +1,6 @@
+Record=DiagramHierarchy|SourceDocument=Project-C.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=Project-C_LED\Project-C_LED.PrjPCB
+Record=SubProject|SourceDocument=Project-C.MbsDoc|ProjectPath=Project-C_LED\Project-C_LED.PrjPCB
+Record=DiagramHierarchy|SourceDocument=Project-C.MbsDoc|Kind=Multi-board Schematic Module|Designator=Voltage|Source=Project-C_Voltage\Project-C_VOLTAGE.PrjPCB
+Record=SubProject|SourceDocument=Project-C.MbsDoc|ProjectPath=Project-C_Voltage\Project-C_VOLTAGE.PrjPCB
+Record=DiagramHierarchy|SourceDocument=Project-C.MbsDoc|Kind=Multi-board Schematic Module|Designator=Controller|Source=Project-C_Controller\Project-C_CONTOLLER.PrjPCB
+Record=SubProject|SourceDocument=Project-C.MbsDoc|ProjectPath=Project-C_Controller\Project-C_CONTOLLER.PrjPCB
