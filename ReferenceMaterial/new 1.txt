@@ -1,0 +1,6 @@
+1. U need multiple text files in the memory
+2. Upto 1000 Text files
+3. LEDs can be turned off via button from the LCD
+4. Long Distance Communication
+5. RJ45
+6. If possible, a single connector for power and data 
