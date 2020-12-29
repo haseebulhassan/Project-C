@@ -1,0 +1,14 @@
+[DesignatorManager]
+LogicalDesignator0=
+LogicalPartID0=1
+DocumentName0=FPGA_POWER.SchDoc
+ChannelName0=POWER1
+UniqueID0=\BRTFKDIV\IQRJETXQ\VROPIITJ
+PhysicalDesignator0=C5_POWER1
+PhysicalDesignatorLocked0=1
+
+[SheetNumberManager]
+SheetNumberOrder=Display Order
+SheetNumberMethod=Increasing
+
+
