@@ -6,6 +6,20 @@ ChannelName0=POWER1
 UniqueID0=\BRTFKDIV\IQRJETXQ\VROPIITJ
 PhysicalDesignator0=C5_POWER1
 PhysicalDesignatorLocked0=1
+LogicalDesignator1=
+LogicalPartID1=1
+DocumentName1=FPGA_POWER.SchDoc
+ChannelName1=POWER2
+UniqueID1=\FXYUDPYD\IQRJETXQ\VROPIITJ
+PhysicalDesignator1=C5_POWER2
+PhysicalDesignatorLocked1=1
+LogicalDesignator2=
+LogicalPartID2=1
+DocumentName2=FPGA_POWER.SchDoc
+ChannelName2=POWER3
+UniqueID2=\LJWRQAAF\IQRJETXQ\VROPIITJ
+PhysicalDesignator2=C5_POWER3
+PhysicalDesignatorLocked2=1
 
 [SheetNumberManager]
 SheetNumberOrder=Display Order
