@@ -1,0 +1,21 @@
+Added Component: Designator=U5(TPS2121RUXT)
+Add component (AddParameter): Name = "Mfr"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr Part No"; Value = "TPS2121RUXT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "2.40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stockiest"; Value = "MOUSER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stockiest Part No"; Value = "595-TPS2121RUXT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC_12V Pin=U5-1
+Added Pin To Net: NetName=PWR_CNTRL Pin=U5-2
+Added Pin To Net: NetName=NetR42_1 Pin=U5-3
+Added Pin To Net: NetName=NetR41_2 Pin=U5-4
+Added Pin To Net: NetName=NetR35_2 Pin=U5-5
+Added Pin To Net: NetName=NetR36_1 Pin=U5-6
+Added Pin To Net: NetName=PWR_LOCAL Pin=U5-7
+Added Pin To Net: NetName=VCC_12V Pin=U5-8
+Added Pin To Net: NetName=NetD3_2 Pin=U5-9
+Added Pin To Net: NetName=NetR40_1 Pin=U5-10
+Added Pin To Net: NetName=NetC77_2 Pin=U5-11
+Added Pin To Net: NetName=GND Pin=U5-12
+Added Member To Class: ClassName=Power_ORing Member=Component U5 TPS2121

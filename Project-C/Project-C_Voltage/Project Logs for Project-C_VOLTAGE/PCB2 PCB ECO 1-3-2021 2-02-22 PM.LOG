@@ -1,0 +1,33 @@
+Added Component: Designator=D4(V8PAM10SHM3H)
+Add component (AddParameter): Name = "Mfr"; Value = "Vishay General Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr Part No"; Value = "V8PAM10S-M3/H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.39"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stockiest"; Value = "MOUSER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stockiest Part No"; Value = "78-V8PAM10S-M3/H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D5(V8PAM10SHM3H)
+Add component (AddParameter): Name = "Mfr"; Value = "Vishay General Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr Part No"; Value = "V8PAM10S-M3/H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.39"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stockiest"; Value = "MOUSER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stockiest Part No"; Value = "78-V8PAM10S-M3/H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D6(V8PAM10SHM3H)
+Add component (AddParameter): Name = "Mfr"; Value = "Vishay General Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr Part No"; Value = "V8PAM10S-M3/H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.39"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stockiest"; Value = "MOUSER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stockiest Part No"; Value = "78-V8PAM10S-M3/H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=PWR_CNTRL Pin=D4-2
+Added Pin To Net: NetName=VCC_12V Pin=D5-1
+Added Pin To Net: NetName=NetD4_1 Pin=D5-2
+Added Pin To Net: NetName=VCC_12V Pin=D6-1
+Added Pin To Net: NetName=PWR_LOCAL Pin=D6-2
+Added Member To Class: ClassName=Power_ORing Member=Component D4 V8PAM10S-M3_H
+Added Member To Class: ClassName=Power_ORing Member=Component D5 V8PAM10S-M3_H
+Added Member To Class: ClassName=Power_ORing Member=Component D6 V8PAM10S-M3_H

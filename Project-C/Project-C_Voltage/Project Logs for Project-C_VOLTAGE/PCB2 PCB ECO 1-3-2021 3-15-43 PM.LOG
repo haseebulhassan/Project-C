@@ -1,0 +1,12 @@
+Added Component: Designator=J2(PJ002BH)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "PJ-002BH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/pj-002bh/cui-devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/PJ-002BH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PJ-002BH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "490-PJ-002BH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/PJ-002BH?qs=WyjlAZoYn51nOX1h%2FqpLlg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PWR_LOCAL Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Member To Class: ClassName=Power_ORing Member=Component J2 PJ-002BH

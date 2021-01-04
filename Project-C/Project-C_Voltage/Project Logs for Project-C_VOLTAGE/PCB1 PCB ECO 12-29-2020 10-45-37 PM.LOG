@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=POWER3 Member=C5_POWER1
+Removed Member From Class: ClassName=POWER4 Member=C5_POWER1
+Change Component Designator: OldDesignator=C5_POWER1 NewDesignator=C5_POWER2
+Change Component Designator: OldDesignator=C5_POWER1 NewDesignator=C5_POWER3
+Change Component Designator: OldDesignator=C5_POWER1 NewDesignator=C5_POWER4
+Added Member To Class: ClassName=POWER3 Member=Component C5_POWER3 (C5) 0.1uF/16V
+Added Member To Class: ClassName=POWER4 Member=Component C5_POWER4 (C5) 0.1uF/16V
