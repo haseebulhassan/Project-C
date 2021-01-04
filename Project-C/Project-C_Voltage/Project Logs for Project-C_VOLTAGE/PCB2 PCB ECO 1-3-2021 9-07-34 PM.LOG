@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=VCC_3V3 Pin=L3_POWER1-1
+Added Pin To Net: NetName=VCC_IO Pin=L3_POWER1-2
+Added Member To Class: ClassName=POWER1 Member=Component L3_POWER1 (L3) 100R,1A

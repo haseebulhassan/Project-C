@@ -1,0 +1,11 @@
+Added Component: Designator=C3_POWER1(0603C)
+Add component (AddParameter): Name = "Mfr"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr Part No"; Value = "C0603C103K4RECAUTO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.151"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stockiest"; Value = "MOUSER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stockiest Part No"; Value = "80-C0603C103K4RECAUT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.01uF/16V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC_ONE Pin=C3_POWER1-1
+Added Pin To Net: NetName=GND Pin=C3_POWER1-2
+Added Member To Class: ClassName=POWER1 Member=Component C3_POWER1 (C3) 0.01uF/16V

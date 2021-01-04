@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=POWER1 Member=C5_POWER4
+Removed Member From Class: ClassName=POWER2 Member=C5_POWER4
+Added Member To Class: ClassName=POWER1 Member=Component C5_POWER1 (C5) 0.1uF/16V
+Added Member To Class: ClassName=POWER2 Member=Component C5_POWER2 (C5) 0.1uF/16V

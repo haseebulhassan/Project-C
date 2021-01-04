@@ -1,0 +1,21 @@
+Removed Member From Class: ClassName=POWER1 Member=C5_POWER4
+Added Component: Designator=J1(RJHSE5381)
+Add component (AddParameter): Name = "Mfr"; Value = "Amphenol Commercial Products"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr Part No"; Value = "RJHSE-5381"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1.77"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stockiest"; Value = "MOUSER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stockiest Part No"; Value = "523-RJHSE-5381"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RS232_TX Pin=J1-1
+Added Pin To Net: NetName=RS232_RX Pin=J1-2
+Added Pin To Net: NetName=CMD_INT Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=PWR_IN Pin=J1-7
+Added Pin To Net: NetName=PWR_IN Pin=J1-8
+Added Pin To Net: NetName=SHIELD Pin=J1-MH1
+Added Pin To Net: NetName=SHIELD Pin=J1-MH2
+Added Member To Class: ClassName=POWER1 Member=Component C5_POWER1 (C5) 0.1uF/16V
+Added Member To Class: ClassName=TOP_VOLTAGE Member=Component J1 RJHSE-5381
