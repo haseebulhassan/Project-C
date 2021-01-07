@@ -1,0 +1,12 @@
+1. Green LEDs have a higher switching frequency than white LEDs. The color of the LEDs is correct.
+see https://electronics.stackexchange.com/questions/118141/high-frequency-blinking-leds-and-sensor-for-that/118149#:~:text=Pretty%20much%20any%20LED%20available,rated % 20at% 20a% 20cut% 2Doff
+
+2. We strongly recommend connecting the common LED wire to + power. Not to the ground. (Explanation: As a rule - and in this case it is also - when the output of the chip (such as SN74HCS04) is connected to ground, the voltage drop across the switch transistor of the chip is less. This is good for many reasons)
+
+3. If recommendation 2 is followed, the current through the LED will be max 6mA. It is right.
+
+4. When the SN74HCS04 is powered from 5V, due to the range of parameters, a situation is possible when MAKS10 cannot directly control the SN74HCS04 chip. You will need to use a level converter, or replace the SN74HCS04.
+
+5. I consider the best location Scheme-2: Buffer on the LED PCB. In this case, both on the FPGA board and on the SN74HCS04 board on the "in .." lines, I recommend to put 10 Ohm resistors. (Explanation: This will increase immunity to interference and prevent ringing). If the FPGA and SN74HCS04 are on the same board, one resistor is sufficient.
+
+6. We recommend to provide more filtering capacitors for power supply.
