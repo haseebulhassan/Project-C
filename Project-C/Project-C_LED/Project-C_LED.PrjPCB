@@ -191,7 +191,7 @@ GenerateClassCluster=0
 DocumentUniqueId=BFWNOFMP
 
 [Document10]
-DocumentPath=PCB4.PcbDoc
+DocumentPath=PCB5.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
