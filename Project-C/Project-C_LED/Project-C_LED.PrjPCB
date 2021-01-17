@@ -222,7 +222,11 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=STHNNPAS
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Project-C_LED\Design Rule Check - PCB5.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
